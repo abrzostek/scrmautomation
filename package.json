@@ -1,0 +1,14 @@
+{
+  "name": "scrmautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mvn test"
+  },
+  "author": "Aleksandra Brzostek",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^87.0.0"
+  }
+}
